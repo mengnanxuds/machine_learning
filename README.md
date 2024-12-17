@@ -21,19 +21,22 @@ Perfect for students, developers, and data enthusiasts to strengthen their found
 
  ### Repo Directory Structure
 
- classic-ml-algorithms/
+# Project Structure: Classic Machine Learning Algorithms
+
+```plaintext
+classic-ml-algorithms/
 │
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
+├── README.md                   # Project overview and usage instructions
+├── LICENSE                     # License for open-source usage
+├── requirements.txt            # Python dependencies for the project
+├── .gitignore                  # Files and folders to exclude from version control
 │
-├── algorithms/
-│   ├── regression/
+├── algorithms/                 # ML algorithms organized by type
+│   ├── regression/             
 │   │   ├── linear_regression/
-│   │   │   ├── linear_regression.py
-│   │   │   ├── linear_regression.ipynb
-│   │   │   ├── README.md
+│   │   │   ├── linear_regression.py       # Linear Regression implementation
+│   │   │   ├── linear_regression.ipynb    # Notebook example for Linear Regression
+│   │   │   ├── README.md                  # Documentation for Linear Regression
 │   │   └── logistic_regression/
 │   │       ├── logistic_regression.py
 │   │       ├── logistic_regression.ipynb
@@ -85,22 +88,21 @@ Perfect for students, developers, and data enthusiasts to strengthen their found
 │       ├── svm.ipynb
 │       ├── README.md
 │
-├── datasets/
-│   ├── README.md
+├── datasets/                   # Small datasets for algorithm demonstration
+│   ├── README.md               # Dataset descriptions
 │   ├── iris.csv
 │   ├── breast_cancer.csv
 │   ├── wine.csv
 │
-├── utils/
-│   ├── metrics.py
-│   ├── plot_utils.py
-│   ├── data_loader.py
+├── utils/                      # Reusable utility functions
+│   ├── metrics.py              # Custom evaluation metrics
+│   ├── plot_utils.py           # Visualization helper functions
+│   ├── data_loader.py          # Data loading and preprocessing functions
 │
-└── notebooks/
-    ├── overview_of_algorithms.ipynb
-    ├── performance_comparison.ipynb
-    ├── README.md
-
+└── notebooks/                  # Interactive Jupyter Notebooks
+    ├── overview_of_algorithms.ipynb     # Overview of all algorithms with examples
+    ├── performance_comparison.ipynb     # Performance comparison of algorithms
+    ├── README.md                        # Notebook descriptions
 
 
 
