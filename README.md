@@ -1,4 +1,4 @@
-# MLclassic
+# Classic Machine Learning Algorithms
 
 This repository contains implementations of fundamental classic machine learning algorithms in Python, organized for ease of learning and practical use. Each algorithm is accompanied by detailed explanations, clean code, and interactive Jupyter Notebooks demonstrating their functionality using real-world datasets. Whether you’re a beginner or an experienced practitioner, this repo serves as a comprehensive resource for understanding and applying classic ML techniques such as regression, classification, clustering, ensemble methods, and dimensionality reduction.
 
@@ -105,7 +105,7 @@ classic-ml-algorithms/
     ├── README.md                        # Notebook descriptions
 
 
-
+```
 
 This project structure is designed to showcase my machine learning engineering skills, emphasizing code reusability, readability, and demonstrability to make the project professional and well-organized.
 
@@ -165,3 +165,20 @@ Highlights your ability to document and communicate effectively, a critical skil
 **Interactive Demonstration:** Jupyter Notebooks visually showcase results, making it easy to understand and explain the project.
 **Standardized Environment:** Files like requirements.txt ensure the project runs consistently across systems.
 **Comprehensive Documentation:** Well-written README.md files guide users through the project, reflecting professionalism.
+
+
+
+
+
+## 🎉 Thanks for Exploring this Repo!  
+
+Thank you for taking the time to explore this project. I hope it helps you understand and implement classic machine learning algorithms with ease.  
+
+If you found this project useful, feel free to:  
+- ⭐ **Star** this repository to show your support.  
+- 🛠️ Fork and contribute to improve it further.  
+- 💬 Reach out with any questions, feedback, or suggestions via [email](mengnanxu2333@gmail.com), [LinkedIn](www.linkedin.com/in/isobelxu) or Web message!  
+
+Happy coding and learning! 🚀  
+
+**--- Mengnan Xu**
