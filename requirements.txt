@@ -150,3 +150,4 @@ wrapt==1.16.0
 xlrd==2.0.1
 yarl==1.18.3
 zhconv==1.4.3
+scikit-learn
